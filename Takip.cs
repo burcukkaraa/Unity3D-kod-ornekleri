@@ -9,7 +9,6 @@ public class Takip: MonoBehaviour {
 
 
 
-
 	void Start () {
 
 		konum = transform.position - oyuncu.transform.position;
