@@ -29,8 +29,6 @@ public class Motor : MonoBehaviour {
 			kure.GetComponent <Renderer> ().material = materyal [sayi];
 
 
-
-
 			Vector3 position = new Vector3 (Random.Range (-8.0F, 8.0F), 3, Random.Range (-8.0F, 8.0F));
 			Instantiate (kure, position, Quaternion.identity);
 
