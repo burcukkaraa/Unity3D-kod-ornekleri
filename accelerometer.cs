@@ -5,7 +5,6 @@ using UnityEngine.SceneManagement;
 
 
 
-
 public class accelerometer : MonoBehaviour {
 
     Vector3 ilkPozisyon;
@@ -25,8 +24,5 @@ public class accelerometer : MonoBehaviour {
 		rb.AddForce(new Vector3(Input.acceleration.x - ilkPozisyon.x,0, -Input.acceleration.y + ilkPozisyon.y) * 30);
     }
 
-	
-	
-	
-       
+      
 }
