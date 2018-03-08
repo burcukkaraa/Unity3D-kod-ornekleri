@@ -16,7 +16,6 @@ public class Motor : MonoBehaviour {
 	int denkle ;
 
 
-
 	void Start () {
 
         
