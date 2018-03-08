@@ -41,7 +41,6 @@ public class Yakala : MonoBehaviour {
 	void Start () {
 
 
-
 		can = deger.saglık;
 
 		kaybetmenusu.SetActive(false);
