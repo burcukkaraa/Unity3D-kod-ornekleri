@@ -5,7 +5,6 @@ using UnityEngine;
 public class Yuvarlan : MonoBehaviour {
 
 
-
 	public float hiz ;
 
 
