@@ -11,6 +11,7 @@ public class MenuKontrol : MonoBehaviour {
 	bool seskontrol;
 
 
+	
 	void Start () {
 
 		seskontrol = true;
