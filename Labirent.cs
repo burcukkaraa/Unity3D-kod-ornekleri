@@ -16,8 +16,7 @@ public class Labirent : MonoBehaviour {
 		rastgele1 = Random.Range (0, 30);
 		rastgele2 = Random.Range (0, 20);
 		print (rastgele1);
-
-		
+	
 	}
 	
 
