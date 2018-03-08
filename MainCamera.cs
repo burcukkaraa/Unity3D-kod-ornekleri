@@ -20,14 +20,5 @@ public class MainCamera : MonoBehaviour {
 
 
 	
-	void Start ()
-    {
-		
-	}
 	
-	
-	void Update () 
-    {
-		
-	}
 }
